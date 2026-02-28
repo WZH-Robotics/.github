@@ -11,7 +11,7 @@ Kwangwoon University에서 진행한 로보틱스 & AI 프로젝트 모음입니
 | Project | Description | Tech |
 |:---|:---|:---|
 | [**computer-vision**](https://github.com/WZH-Robotics/computer-vision) | Image processing (C++/Qt) + YOLOv5 potato anomaly detection | C++, Qt, Python, YOLOv5 |
-| **robot-vision** | Camera calibration, face detection, 3D point cloud | C++, Qt, Python, RealSense |
+| [**robot-vision-app**](https://github.com/WZH-Robotics/robot-vision-app) | Camera calibration, face detection, 3D point cloud | C++, Qt, Python, RealSense |
 | **deep-learning** | Gradient Descent, Regularization, CNN, LSTM | Python, TensorFlow, Keras |
 | [**reinforcement-learning**](https://github.com/WZH-Robotics/reinforcement-learning) | Policy Iteration, SARSA, Q-Learning, DQN with Isaac Gym | Python, PyTorch, Isaac Gym |
 | **capstone** | DDPG-based 6-DOF robot arm collision avoidance — ICROS 2024 | Python, ROS2, Gazebo, PyTorch |
